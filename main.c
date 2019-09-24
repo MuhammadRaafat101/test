@@ -1,1 +1,3 @@
 pizz
+HI 
+LOW
